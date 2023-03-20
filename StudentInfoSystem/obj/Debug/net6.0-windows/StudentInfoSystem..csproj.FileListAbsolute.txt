@@ -1,0 +1,50 @@
+C:\Users\mnm95\Downloads\c-sharp-intro-master\c-sharp-intro-master\StudentInfoSystem\bin\Debug\net6.0-windows\StudentInfoSystem..exe
+C:\Users\mnm95\Downloads\c-sharp-intro-master\c-sharp-intro-master\StudentInfoSystem\bin\Debug\net6.0-windows\StudentInfoSystem..deps.json
+C:\Users\mnm95\Downloads\c-sharp-intro-master\c-sharp-intro-master\StudentInfoSystem\bin\Debug\net6.0-windows\StudentInfoSystem..runtimeconfig.json
+C:\Users\mnm95\Downloads\c-sharp-intro-master\c-sharp-intro-master\StudentInfoSystem\bin\Debug\net6.0-windows\StudentInfoSystem..dll
+C:\Users\mnm95\Downloads\c-sharp-intro-master\c-sharp-intro-master\StudentInfoSystem\bin\Debug\net6.0-windows\StudentInfoSystem..pdb
+C:\Users\mnm95\Downloads\c-sharp-intro-master\c-sharp-intro-master\StudentInfoSystem\obj\Debug\net6.0-windows\StudentInfoSystem..csproj.AssemblyReference.cache
+C:\Users\mnm95\Downloads\c-sharp-intro-master\c-sharp-intro-master\StudentInfoSystem\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\mnm95\Downloads\c-sharp-intro-master\c-sharp-intro-master\StudentInfoSystem\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\mnm95\Downloads\c-sharp-intro-master\c-sharp-intro-master\StudentInfoSystem\obj\Debug\net6.0-windows\StudentInfoSystem._MarkupCompile.cache
+C:\Users\mnm95\Downloads\c-sharp-intro-master\c-sharp-intro-master\StudentInfoSystem\obj\Debug\net6.0-windows\StudentInfoSystem._MarkupCompile.lref
+C:\Users\mnm95\Downloads\c-sharp-intro-master\c-sharp-intro-master\StudentInfoSystem\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\mnm95\Downloads\c-sharp-intro-master\c-sharp-intro-master\StudentInfoSystem\obj\Debug\net6.0-windows\StudentInfoSystem..g.resources
+C:\Users\mnm95\Downloads\c-sharp-intro-master\c-sharp-intro-master\StudentInfoSystem\obj\Debug\net6.0-windows\StudentInfoSystem..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnm95\Downloads\c-sharp-intro-master\c-sharp-intro-master\StudentInfoSystem\obj\Debug\net6.0-windows\StudentInfoSystem..AssemblyInfoInputs.cache
+C:\Users\mnm95\Downloads\c-sharp-intro-master\c-sharp-intro-master\StudentInfoSystem\obj\Debug\net6.0-windows\StudentInfoSystem..AssemblyInfo.cs
+C:\Users\mnm95\Downloads\c-sharp-intro-master\c-sharp-intro-master\StudentInfoSystem\obj\Debug\net6.0-windows\StudentInfoSystem..csproj.CoreCompileInputs.cache
+C:\Users\mnm95\Downloads\c-sharp-intro-master\c-sharp-intro-master\StudentInfoSystem\obj\Debug\net6.0-windows\StudentInfoSystem..dll
+C:\Users\mnm95\Downloads\c-sharp-intro-master\c-sharp-intro-master\StudentInfoSystem\obj\Debug\net6.0-windows\refint\StudentInfoSystem..dll
+C:\Users\mnm95\Downloads\c-sharp-intro-master\c-sharp-intro-master\StudentInfoSystem\obj\Debug\net6.0-windows\StudentInfoSystem..pdb
+C:\Users\mnm95\Downloads\c-sharp-intro-master\c-sharp-intro-master\StudentInfoSystem\obj\Debug\net6.0-windows\StudentInfoSystem..genruntimeconfig.cache
+C:\Users\mnm95\Downloads\c-sharp-intro-master\c-sharp-intro-master\StudentInfoSystem\obj\Debug\net6.0-windows\ref\StudentInfoSystem..dll
+C:\Users\mnm95\Downloads\c-sharp-intro-master\c-sharp-intro-master\StudentInfoSystem\bin\Debug\net6.0-windows\UserLogin.exe
+C:\Users\mnm95\Downloads\c-sharp-intro-master\c-sharp-intro-master\StudentInfoSystem\bin\Debug\net6.0-windows\UserLogin.pdb
+C:\Users\mnm95\Downloads\c-sharp-intro-master\c-sharp-intro-master\StudentInfoSystem\bin\Debug\net6.0-windows\UserLogin.exe.config
+C:\Users\mnm95\Downloads\c-sharp-intro-master\c-sharp-intro-master\StudentInfoSystem\obj\Debug\net6.0-windows\StudentInfoSystem..csproj.CopyComplete
+C:\Users\mnm95\Documents\Uni stuff\SEM 6\PS\c-sharp-intro-master\StudentInfoSystem\bin\Debug\net6.0-windows\StudentInfoSystem..exe
+C:\Users\mnm95\Documents\Uni stuff\SEM 6\PS\c-sharp-intro-master\StudentInfoSystem\bin\Debug\net6.0-windows\StudentInfoSystem..deps.json
+C:\Users\mnm95\Documents\Uni stuff\SEM 6\PS\c-sharp-intro-master\StudentInfoSystem\bin\Debug\net6.0-windows\StudentInfoSystem..runtimeconfig.json
+C:\Users\mnm95\Documents\Uni stuff\SEM 6\PS\c-sharp-intro-master\StudentInfoSystem\bin\Debug\net6.0-windows\StudentInfoSystem..dll
+C:\Users\mnm95\Documents\Uni stuff\SEM 6\PS\c-sharp-intro-master\StudentInfoSystem\bin\Debug\net6.0-windows\StudentInfoSystem..pdb
+C:\Users\mnm95\Documents\Uni stuff\SEM 6\PS\c-sharp-intro-master\StudentInfoSystem\bin\Debug\net6.0-windows\UserLogin.exe
+C:\Users\mnm95\Documents\Uni stuff\SEM 6\PS\c-sharp-intro-master\StudentInfoSystem\bin\Debug\net6.0-windows\UserLogin.pdb
+C:\Users\mnm95\Documents\Uni stuff\SEM 6\PS\c-sharp-intro-master\StudentInfoSystem\bin\Debug\net6.0-windows\UserLogin.exe.config
+C:\Users\mnm95\Documents\Uni stuff\SEM 6\PS\c-sharp-intro-master\StudentInfoSystem\obj\Debug\net6.0-windows\StudentInfoSystem..csproj.AssemblyReference.cache
+C:\Users\mnm95\Documents\Uni stuff\SEM 6\PS\c-sharp-intro-master\StudentInfoSystem\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\mnm95\Documents\Uni stuff\SEM 6\PS\c-sharp-intro-master\StudentInfoSystem\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\mnm95\Documents\Uni stuff\SEM 6\PS\c-sharp-intro-master\StudentInfoSystem\obj\Debug\net6.0-windows\StudentInfoSystem._MarkupCompile.cache
+C:\Users\mnm95\Documents\Uni stuff\SEM 6\PS\c-sharp-intro-master\StudentInfoSystem\obj\Debug\net6.0-windows\StudentInfoSystem._MarkupCompile.lref
+C:\Users\mnm95\Documents\Uni stuff\SEM 6\PS\c-sharp-intro-master\StudentInfoSystem\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\mnm95\Documents\Uni stuff\SEM 6\PS\c-sharp-intro-master\StudentInfoSystem\obj\Debug\net6.0-windows\StudentInfoSystem..g.resources
+C:\Users\mnm95\Documents\Uni stuff\SEM 6\PS\c-sharp-intro-master\StudentInfoSystem\obj\Debug\net6.0-windows\StudentInfoSystem..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnm95\Documents\Uni stuff\SEM 6\PS\c-sharp-intro-master\StudentInfoSystem\obj\Debug\net6.0-windows\StudentInfoSystem..AssemblyInfoInputs.cache
+C:\Users\mnm95\Documents\Uni stuff\SEM 6\PS\c-sharp-intro-master\StudentInfoSystem\obj\Debug\net6.0-windows\StudentInfoSystem..AssemblyInfo.cs
+C:\Users\mnm95\Documents\Uni stuff\SEM 6\PS\c-sharp-intro-master\StudentInfoSystem\obj\Debug\net6.0-windows\StudentInfoSystem..csproj.CoreCompileInputs.cache
+C:\Users\mnm95\Documents\Uni stuff\SEM 6\PS\c-sharp-intro-master\StudentInfoSystem\obj\Debug\net6.0-windows\StudentInfoSystem..csproj.CopyComplete
+C:\Users\mnm95\Documents\Uni stuff\SEM 6\PS\c-sharp-intro-master\StudentInfoSystem\obj\Debug\net6.0-windows\StudentInfoSystem..dll
+C:\Users\mnm95\Documents\Uni stuff\SEM 6\PS\c-sharp-intro-master\StudentInfoSystem\obj\Debug\net6.0-windows\refint\StudentInfoSystem..dll
+C:\Users\mnm95\Documents\Uni stuff\SEM 6\PS\c-sharp-intro-master\StudentInfoSystem\obj\Debug\net6.0-windows\StudentInfoSystem..pdb
+C:\Users\mnm95\Documents\Uni stuff\SEM 6\PS\c-sharp-intro-master\StudentInfoSystem\obj\Debug\net6.0-windows\StudentInfoSystem..genruntimeconfig.cache
+C:\Users\mnm95\Documents\Uni stuff\SEM 6\PS\c-sharp-intro-master\StudentInfoSystem\obj\Debug\net6.0-windows\ref\StudentInfoSystem..dll
