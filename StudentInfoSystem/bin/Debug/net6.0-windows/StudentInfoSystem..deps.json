@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StudentInfoSystem./1.0.0": {
+        "dependencies": {
+          "UserLogin": "1.0.0"
+        },
+        "runtime": {
+          "StudentInfoSystem..dll": {}
+        }
+      },
+      "UserLogin/1.0.0": {
+        "runtime": {
+          "UserLogin.exe": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentInfoSystem./1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UserLogin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
