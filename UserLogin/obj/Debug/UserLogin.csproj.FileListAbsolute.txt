@@ -6,3 +6,11 @@ C:\Users\mnm95\Downloads\c-sharp-intro-master\c-sharp-intro-master\UserLogin\obj
 C:\Users\mnm95\Downloads\c-sharp-intro-master\c-sharp-intro-master\UserLogin\bin\Debug\UserLogin.exe.config
 C:\Users\mnm95\Downloads\c-sharp-intro-master\c-sharp-intro-master\UserLogin\bin\Debug\UserLogin.exe
 C:\Users\mnm95\Downloads\c-sharp-intro-master\c-sharp-intro-master\UserLogin\bin\Debug\UserLogin.pdb
+C:\Users\mnm95\Documents\Uni stuff\SEM 6\PS\Upr_PS\UserLogin\bin\Debug\UserLogin.exe.config
+C:\Users\mnm95\Documents\Uni stuff\SEM 6\PS\Upr_PS\UserLogin\bin\Debug\UserLogin.exe
+C:\Users\mnm95\Documents\Uni stuff\SEM 6\PS\Upr_PS\UserLogin\bin\Debug\UserLogin.pdb
+C:\Users\mnm95\Documents\Uni stuff\SEM 6\PS\Upr_PS\UserLogin\obj\Debug\UserLogin.csproj.AssemblyReference.cache
+C:\Users\mnm95\Documents\Uni stuff\SEM 6\PS\Upr_PS\UserLogin\obj\Debug\UserLogin.csproj.SuggestedBindingRedirects.cache
+C:\Users\mnm95\Documents\Uni stuff\SEM 6\PS\Upr_PS\UserLogin\obj\Debug\UserLogin.csproj.CoreCompileInputs.cache
+C:\Users\mnm95\Documents\Uni stuff\SEM 6\PS\Upr_PS\UserLogin\obj\Debug\UserLogin.exe
+C:\Users\mnm95\Documents\Uni stuff\SEM 6\PS\Upr_PS\UserLogin\obj\Debug\UserLogin.pdb

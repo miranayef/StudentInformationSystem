@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mnm95\\Documents\\Uni stuff\\SEM 6\\PS\\StudentInformationSystem\\StudentInfoSystem\\StudentInfoSystem..csproj": {}
+    "C:\\Users\\mnm95\\Documents\\Uni stuff\\SEM 6\\PS\\Upr_PS\\StudentInfoSystem\\StudentInfoSystem..csproj": {}
   },
   "projects": {
-    "C:\\Users\\mnm95\\Documents\\Uni stuff\\SEM 6\\PS\\StudentInformationSystem\\StudentInfoSystem\\StudentInfoSystem..csproj": {
+    "C:\\Users\\mnm95\\Documents\\Uni stuff\\SEM 6\\PS\\Upr_PS\\StudentInfoSystem\\StudentInfoSystem..csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mnm95\\Documents\\Uni stuff\\SEM 6\\PS\\StudentInformationSystem\\StudentInfoSystem\\StudentInfoSystem..csproj",
+        "projectUniqueName": "C:\\Users\\mnm95\\Documents\\Uni stuff\\SEM 6\\PS\\Upr_PS\\StudentInfoSystem\\StudentInfoSystem..csproj",
         "projectName": "StudentInfoSystem.",
-        "projectPath": "C:\\Users\\mnm95\\Documents\\Uni stuff\\SEM 6\\PS\\StudentInformationSystem\\StudentInfoSystem\\StudentInfoSystem..csproj",
+        "projectPath": "C:\\Users\\mnm95\\Documents\\Uni stuff\\SEM 6\\PS\\Upr_PS\\StudentInfoSystem\\StudentInfoSystem..csproj",
         "packagesPath": "C:\\Users\\mnm95\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mnm95\\Documents\\Uni stuff\\SEM 6\\PS\\StudentInformationSystem\\StudentInfoSystem\\obj\\",
+        "outputPath": "C:\\Users\\mnm95\\Documents\\Uni stuff\\SEM 6\\PS\\Upr_PS\\StudentInfoSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mnm95\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\mnm95\\Documents\\Uni stuff\\SEM 6\\PS\\StudentInformationSystem\\UserLogin\\UserLogin.csproj": {
-                "projectPath": "C:\\Users\\mnm95\\Documents\\Uni stuff\\SEM 6\\PS\\StudentInformationSystem\\UserLogin\\UserLogin.csproj"
+              "C:\\Users\\mnm95\\Documents\\Uni stuff\\SEM 6\\PS\\Upr_PS\\UserLogin\\UserLogin.csproj": {
+                "projectPath": "C:\\Users\\mnm95\\Documents\\Uni stuff\\SEM 6\\PS\\Upr_PS\\UserLogin\\UserLogin.csproj"
               }
             }
           }
@@ -43,6 +43,16 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -66,11 +76,11 @@
         }
       }
     },
-    "C:\\Users\\mnm95\\Documents\\Uni stuff\\SEM 6\\PS\\StudentInformationSystem\\UserLogin\\UserLogin.csproj": {
+    "C:\\Users\\mnm95\\Documents\\Uni stuff\\SEM 6\\PS\\Upr_PS\\UserLogin\\UserLogin.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\mnm95\\Documents\\Uni stuff\\SEM 6\\PS\\StudentInformationSystem\\UserLogin\\UserLogin.csproj",
+        "projectUniqueName": "C:\\Users\\mnm95\\Documents\\Uni stuff\\SEM 6\\PS\\Upr_PS\\UserLogin\\UserLogin.csproj",
         "projectName": "UserLogin",
-        "projectPath": "C:\\Users\\mnm95\\Documents\\Uni stuff\\SEM 6\\PS\\StudentInformationSystem\\UserLogin\\UserLogin.csproj",
+        "projectPath": "C:\\Users\\mnm95\\Documents\\Uni stuff\\SEM 6\\PS\\Upr_PS\\UserLogin\\UserLogin.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mnm95\\Documents\\Uni stuff\\SEM 6\\PS\\StudentInformationSystem\\WPFHello\\WPFHello.csproj": {}
+    "C:\\Users\\mnm95\\Documents\\Uni stuff\\SEM 6\\PS\\Upr_PS\\WPFHello\\WPFHello.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mnm95\\Documents\\Uni stuff\\SEM 6\\PS\\StudentInformationSystem\\WPFHello\\WPFHello.csproj": {
+    "C:\\Users\\mnm95\\Documents\\Uni stuff\\SEM 6\\PS\\Upr_PS\\WPFHello\\WPFHello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mnm95\\Documents\\Uni stuff\\SEM 6\\PS\\StudentInformationSystem\\WPFHello\\WPFHello.csproj",
+        "projectUniqueName": "C:\\Users\\mnm95\\Documents\\Uni stuff\\SEM 6\\PS\\Upr_PS\\WPFHello\\WPFHello.csproj",
         "projectName": "WPFHello",
-        "projectPath": "C:\\Users\\mnm95\\Documents\\Uni stuff\\SEM 6\\PS\\StudentInformationSystem\\WPFHello\\WPFHello.csproj",
+        "projectPath": "C:\\Users\\mnm95\\Documents\\Uni stuff\\SEM 6\\PS\\Upr_PS\\WPFHello\\WPFHello.csproj",
         "packagesPath": "C:\\Users\\mnm95\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mnm95\\Documents\\Uni stuff\\SEM 6\\PS\\StudentInformationSystem\\WPFHello\\obj\\",
+        "outputPath": "C:\\Users\\mnm95\\Documents\\Uni stuff\\SEM 6\\PS\\Upr_PS\\WPFHello\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mnm95\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

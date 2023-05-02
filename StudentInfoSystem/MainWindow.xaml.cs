@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
+using System.Data.SqlClient;
 using System.Windows.Data;
 using System.Windows.Documents;
 using System.Windows.Input;
@@ -12,17 +13,20 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Data;
 
 namespace StudentInfoSystem_
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
-    /// </summary>
+    /// </summary>d
     public partial class MainWindow : Window
     {
+        public List<string> StudStatusChoices { get; set; }
         public MainWindow()
         {
             InitializeComponent();
+            FillStudStatusChoices();
         }
 
         private void ComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
@@ -58,6 +62,7 @@ namespace StudentInfoSystem_
             txtYear.Text = student.Year.ToString();
             txtPotok.Text = student.Potok;
             txtGroup.Text = student.Group.ToString();
+            txtStatus.Text = StudStatusChoices[int.Parse(student.Status)];
         }
 
         // Disables all form controls
@@ -88,6 +93,31 @@ namespace StudentInfoSystem_
             txtYear.IsEnabled = true;
             txtPotok.IsEnabled = true;
             txtGroup.IsEnabled = true;
+        }
+
+        private void FillStudStatusChoices()
+        {
+            StudStatusChoices = new List<string>();
+            using (IDbConnection connection = new
+                SqlConnection(Properties.Settings.Default.DbConnect))
+            {
+                string sqlquery =
+                @"SELECT StatusDescr
+                  FROM StudStatus";
+                IDbCommand command = new SqlCommand();
+                command.Connection = connection;
+                connection.Open();
+                command.CommandText = sqlquery;
+                IDataReader reader = command.ExecuteReader();
+                bool notEndOfResult;
+                notEndOfResult = reader.Read();
+                while (notEndOfResult)
+                {
+                    string s = reader.GetString(0);
+                    StudStatusChoices.Add(s);
+                    notEndOfResult = reader.Read();
+                }
+            }
         }
     }
 }

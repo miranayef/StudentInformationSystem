@@ -11,6 +11,9 @@ namespace StudentInfoSystem_
         public string Name { get; set; }
         public string SecondName { get; set; }
         public string Surname { get; set; }
+        public byte[] Photo { get; set; }
+        public int StudentId { get; set; }
+
         public string Faculty { get; set; }
         public string Specialty { get; set; }
         public string Degree { get; set; }
