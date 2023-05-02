@@ -21,6 +21,7 @@ namespace UserLogin
             { get; set;}
         public DateTime ValidToDate
             { get; set;}
+        public System.Int32 UserId { get; set; }
 
         public User(string username, string password, string fakNum, int role, DateTime creationDate, DateTime validToDate)
         {
